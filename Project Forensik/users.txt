@@ -1,0 +1,12 @@
+admin,admin123,Admin
+kepala1,kepala123,KepalaPenyidik
+penyidik1,penyidik123,Penyidik
+penyidik2,penyidik123,Penyidik
+admin,admin123,Admin
+kepala1,kepala123,KepalaPenyidik
+penyidik1,penyidik123,Penyidik
+penyidik2,penyidik123,Penyidik
+admin,admin123,Admin
+kepala,kepala123,KepalaPenyidik
+penyidik1,penyidik123,Penyidik
+penyidik2,penyidik123,Penyidik

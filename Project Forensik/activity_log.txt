@@ -1,0 +1,7 @@
+Admin admin logged in.
+Admin accessed Activity Logs
+Admin accessed Reports and Statistics
+Admin logged out
+KepalaPenyidik kepala logged in.
+Kepala Penyidik accessed Create New Case
+Kepala Penyidik created new case: 1
